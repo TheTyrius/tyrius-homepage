@@ -1,6 +1,6 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Tyrius Homepage",
+    "name": "tyrius-homepage",
     "version": "5.0.5",
     "scripts": {
         "start": "gulp watch"
@@ -14,19 +14,20 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://tyrius.de",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/TheTyrius/tyrius-homepage/issues",
+        "email": "name@email.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (http://davidmiller.io/)",
+        "Philipp B (http://tyrius.de)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/TheTyrius/tyrius-homepage.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
